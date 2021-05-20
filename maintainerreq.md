@@ -14,4 +14,4 @@ Before you apply to add your device into our list of official devices, you shoul
 
 6 - You must meet all requirements as mentioned [here](requirements.md).
 
-Link to Maintainership form [here](https://forms.gle/U5VQiT2yNy94g6Li9)
+If all is well, you may apply [here](https://github.com/NezukoOS/official_devices/issues/new/choose9)
