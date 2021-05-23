@@ -8,7 +8,7 @@ Before you apply to add your device into our list of official devices, you shoul
 
 3 - You must have a daily-drivable unofficial build.
 
-4 - Your Kernel Trees must be open source, we make exceptions for Vendor and Device trees in certain special cases.
+4 - ALL of your trees MUST be open source for us to check and in the future upload to devices org.
 
 5 - You must be SELinux enforcing.
 
