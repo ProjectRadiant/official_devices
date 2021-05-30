@@ -57,6 +57,11 @@ Enforcing.
 No.
 ```
 
+## Are you violating any sepolicy neverallows (or doing _export SELINUX_IGNORE_NEVERALLOWS=true_/_SELINUX_IGNORE_NEVERALLOWS:=true_? If yes, why?
+```
+No.
+```
+
 ## Contact
 ### Telegram username
 ```
