@@ -27,6 +27,11 @@ https://github.com/user/kernel_brand_codename
 https://github.com/user/vendor_brand_codename
 ```
 
+## Link to the platform where you have released your unofficial build
+```
+Insert here
+```
+
 ## Other ROM's you maintain officially or unofficially
 ```
 Insert here
