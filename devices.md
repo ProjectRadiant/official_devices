@@ -17,9 +17,8 @@
     10. laurel_sprout
     11. Mojito
     12. Sweet
-    13. Violet
-    14. Dipper
-    15. Willow
+    13. Dipper
+    14. Willow
 
 * Realme:
     1. Realme X2
