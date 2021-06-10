@@ -14,6 +14,8 @@ Before you apply to add your device into our list of official devices, you shoul
 
 6 - Prebuilt kernels are only allowed if your device does not have proper kernel sources., YOU MUSTN'T ship a prebuilt kernel if you have working kernel sources available just because you save 5 minutes of build time.
 
-7 - You must meet all requirements as mentioned [here](requirements.md).
+7 - You MUST meet all requirements as mentioned [here](requirements.md).
+
+8 - You MUST ship user builds, userdebug isn't allowed except in special cases wherein your build would be considered a Beta release.
 
 If all is well, you may apply [here](https://github.com/NezukoOS/official_devices/issues/new/choose9)
