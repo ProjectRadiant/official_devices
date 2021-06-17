@@ -16,6 +16,4 @@ Before you apply to add your device into our list of official devices, you shoul
 
 7 - You MUST meet all requirements as mentioned [here](requirements.md).
 
-8 - You MUST ship user builds, userdebug isn't allowed except in special cases wherein your build would be considered a Beta release.
-
 If all is well, you may apply [here](https://github.com/NezukoOS/official_devices/issues/new/choose9)
