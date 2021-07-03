@@ -15,6 +15,7 @@
     8. Sweet
     9. Dipper
     10. Willow
+    11. Whyred
 
 * Realme:
     1. Realme C3/Narzo 10A
