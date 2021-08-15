@@ -16,4 +16,4 @@ Before you apply to add your device into our list of official devices, you shoul
 
 7 - You MUST meet all requirements as mentioned [here](requirements.md).
 
-If all is well, you may apply [here](https://github.com/NezukoOS/official_devices/issues/new/choose9)
+If all is well, you may apply [here](https://github.com/ProjectRadiant/official_devices/issues/new/choose9)
