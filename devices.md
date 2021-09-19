@@ -17,6 +17,8 @@
     10. Willow
     11. Whyred
     12. Vayu
+    13. Mojito
+    14. Sunny
 
 * Realme:
     1. Realme C3/Narzo 10A
