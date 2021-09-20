@@ -19,6 +19,7 @@
     12. Vayu
     13. Mojito
     14. Sunny
+    15. Ysl
 
 * Realme:
     1. Realme C3/Narzo 10A
