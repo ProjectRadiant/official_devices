@@ -1,10 +1,10 @@
-# To become an official maintainer for NezukoOS:
+# To become an official maintainer for project radient:
 
 Before you apply to add your device into our list of official devices, you should know a few things:
 
 1 - You must own the device. Blind and untested builds aren't allowed. Unified, and devices with minimal hardware changes are also allowed to be maintained.
 
-2 - You must have basic git (cherry-pick, squash, etc)  knowledge.
+2 - You must have basic git (cherry-pick, squash, etc) knowledge.
 
 3 - You must have a daily drivable unofficial build released 2 weeks before applying for official.
 
