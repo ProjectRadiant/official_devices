@@ -6,19 +6,18 @@
 
 * Xiaomi/Poco:
     1. Raphael
-    2. Davinci
-    3. Phoenix
-    4. Mido
-    5. Miatoll
-    6. Ginkgo
-    7. laurel_sprout
-    8. Sweet
-    9. Dipper
-    10. Willow
-    11. Whyred
-    12. Vayu
-    13. Mojito
-    14. Sunny
+    2. Phoenix
+    3. Mido
+    4. Miatoll
+    5. Ginkgo
+    6. laurel_sprout
+    7. Sweet
+    8. Dipper
+    9. Willow
+    10. Whyred
+    11. Vayu
+    12. Mojito
+    13. Sunny
 
 * Realme:
     1. Realme C3/Narzo 10A
