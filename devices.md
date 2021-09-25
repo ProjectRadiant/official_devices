@@ -20,6 +20,8 @@
     13. Sunny
     14. YSL
 
+* LGE:
+    1. Joan
 
 * Realme:
     1. Realme C3/Narzo 10A
