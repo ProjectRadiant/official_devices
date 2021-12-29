@@ -25,6 +25,7 @@
 
 * Realme:
     1. Realme C3/Narzo 10A
+    2. Realme 5 Pro
 
 * Asus:
     1. X00QD
