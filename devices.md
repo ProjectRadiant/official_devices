@@ -11,6 +11,7 @@
     5. Mojito
     6. Sunny
     7. YSL
+    8. Sweet
 
 * LGE:
     1. Joan
