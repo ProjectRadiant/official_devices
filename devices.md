@@ -12,6 +12,7 @@
     6. Sunny
     7. YSL
     8. Sweet
+    9. Violet
 
 * LGE:
     1. Joan
