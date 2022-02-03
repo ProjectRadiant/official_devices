@@ -5,15 +5,15 @@
 
 * Xiaomi/Poco:
     1. Raphael
-    2. Phoenix
-    3. Whyred
-    4. Vayu
-    5. Mojito
-    6. Sunny
-    7. YSL
-    8. Sweet
-    9. Violet
-
+    2. Whyred
+    3. Vayu
+    4. Mojito
+    5. Sunny
+    6. YSL
+    7. Sweet
+    8. Violet
+    9. Lavender
+ 
 * LGE:
     1. Joan
 
