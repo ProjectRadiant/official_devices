@@ -13,6 +13,7 @@
     7. Sweet
     8. Violet
     9. Lavender
+    10. Beryllium
  
 * LGE:
     1. Joan
